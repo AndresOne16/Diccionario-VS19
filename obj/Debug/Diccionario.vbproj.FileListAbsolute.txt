@@ -1,0 +1,11 @@
+C:\Users\RICARDO\source\repos\Diccionario\bin\Debug\Diccionario.exe.config
+C:\Users\RICARDO\source\repos\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\RICARDO\source\repos\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\RICARDO\source\repos\Diccionario\bin\Debug\Diccionario.xml
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.vbprojAssemblyReference.cache
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.Form1.resources
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.Resources.resources
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.vbproj.GenerateResource.cache
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.exe
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.xml
+C:\Users\RICARDO\source\repos\Diccionario\obj\Debug\Diccionario.pdb
